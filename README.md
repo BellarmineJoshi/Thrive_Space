@@ -44,6 +44,4 @@ This project is a **mental wellness application** built using **Streamlit**, int
 - Enhance visualization of sentiment trends.
 - Deploy the app for public access.
 
-## License
-This project is licensed under the MIT License.
 
